@@ -27,7 +27,9 @@ The goal is to create a strong portfolio piece for an **AI/Generative AI Enginee
 
 ├─ marketing_kpi.jsonl # Synthetic marketing KPI dataset
 
-├─ notebooks/ # Phase 1 and Phase 2 Kaggle notebooks
+├─ fine-tuning-on-marketing-kpis.ipynb # Phase 1 Kaggle notebook
+
+├─ marketing-kpi-genai-inference-insight.ipynb # Phase 2 Kaggle notebook
 
 ├─ README.md # Project overview and instructions
 
