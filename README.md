@@ -15,8 +15,8 @@ The goal is to create a strong portfolio piece for an **AI/Generative AI Enginee
 
 ## Notebooks
 
-- **Phase 1 – Fine-Tuning on Marketing KPIs:** [Kaggle Notebook Link](https://www.kaggle.com/code/omarmamdooh/marketing-kpi-genai-phase-1-finetuning)
-- **Phase 2 – Marketing KPI GenAI: Inference & Insight:** [Kaggle Notebook Link](https://www.kaggle.com/code/omarmamdooh/marketing-kpi-genai-phase-2-inference-insight)
+- **Phase 1 – Fine-Tuning on Marketing KPIs:** [Kaggle Notebook Link](https://www.kaggle.com/code/omarmamdooh/fine-tuning-on-marketing-kpis)
+- **Phase 2 – Marketing KPI GenAI: Inference & Insight:** [Kaggle Notebook Link](https://www.kaggle.com/code/omarmamdooh/marketing-kpi-genai-inference-insight)
 
 ---
 
