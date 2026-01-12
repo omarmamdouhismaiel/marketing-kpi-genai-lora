@@ -24,9 +24,13 @@ The goal is to create a strong portfolio piece for an **AI/Generative AI Enginee
 
 /marketing-kpi-genai
 │
+
 ├─ data/ # Synthetic marketing KPI dataset
+
 ├─ notebooks/ # Phase 1 and Phase 2 Kaggle notebooks
+
 ├─ models/ # Fine-tuned LoRA model outputs
+
 ├─ README.md # Project overview and instructions
 
 
