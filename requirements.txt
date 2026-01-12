@@ -1,0 +1,13 @@
+# Core
+python>=3.10
+numpy
+pandas
+scikit-learn
+
+# NLP & Transformers
+torch>=2.0
+transformers>=4.35
+datasets>=2.15
+accelerate
+peft
+bitsandbytes
